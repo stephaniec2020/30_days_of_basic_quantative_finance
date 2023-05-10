@@ -3,7 +3,7 @@
 This repository documents my 30-day journey of learning basic level quantitative finance. I have created this repository to keep track of my progress and share my learning experience with others who are interested in this field.
 
 ## Personal motivation 🎯 
-I embarked on this 30-day journey because I realized that I have been going through various tutorials in an unsystematic way, which hasn't been very effective. Through this journey, I aim to consolidate my knowledge by teaching and sharing my learning experience with others. My ultimate goal is to land in a permenant position in quantitative finance, and I believe that this journey will be a stepping stone towards achieving that. 
+I embarked on this 30-day journey because I realized that I have been going through various tutorials in an unsystematic way, which hasn't been very effective. Through this journey, I aim to consolidate my knowledge by teaching and sharing my learning experience with others. My ultimate goal is to land in a permanent position in quantitative finance, and I believe that this journey will be a stepping stone towards achieving that. 
 
 ## Description ✍🏻
 Quantitative finance is a multidisciplinary field that combines finance, mathematics, statistics, and computer science to analyze financial markets and develop trading strategies. In this 30-day journey, I will be learning the basics of quantitative finance and exploring various topics such as statistical arbitrage, machine learning, algorithmic trading, options trading, futures trading, risk management, and portfolio optimization.
